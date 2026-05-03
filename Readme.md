@@ -18,8 +18,8 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
 | **folioo** | Full-stack portfolio generator SaaS — upload your resume and get a live portfolio site instantly. Supports Google & GitHub OAuth, resume parsing, and unique slug-based routing per user. | Next.js, MongoDB, NextAuth, Tailwind CSS | 🚧 [Repo](https://github.com/Muzzu8421/folioo) |
-| **Buy Me A Chai** | Production-ready crowdfunding platform for creators. Razorpay payments, real-time earnings dashboard, GitHub OAuth, and dynamic creator profile pages with username-based routing. | Next.js, MongoDB, Razorpay, NextAuth | [Live](https://buy-me-a-chai-silk.shion.dev) · [Repo](https://github.com/Muzzu8421/buy-me-a-chai) |
-| **OneLink** | Link-in-bio platform with a 4-step onboarding wizard, real-time handle validation, dark mode, and Rive-powered animations. Each user gets a unique public profile page. | Next.js, MongoDB, Tailwind CSS, Rive | [Live](https://onelink-mu.shion.dev) · [Repo](https://github.com/Muzzu8421/onelink) |
+| **Buy Me A Chai** | Production-ready crowdfunding platform for creators. Razorpay payments, real-time earnings dashboard, GitHub OAuth, and dynamic creator profile pages with username-based routing. | Next.js, MongoDB, Razorpay, NextAuth | [Live](https://buy-me-a-chai-beta.vercel.app/) · [Repo](https://github.com/Muzzu8421/buy-me-a-chai) |
+| **OneLink** | Link-in-bio platform with a 4-step onboarding wizard, real-time handle validation, dark mode, and Rive-powered animations. Each user gets a unique public profile page. | Next.js, MongoDB, Tailwind CSS, Rive | [Live](https://onelink-weld-mu.vercel.app/) · [Repo](https://github.com/Muzzu8421/onelink) |
 
 ---
 
