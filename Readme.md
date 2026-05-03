@@ -15,16 +15,11 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 
 ## 🏆 Featured Projects
 
-I've built everything from scratch—here are some highlights:
-
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|-----------|------|
-| **X (Twitter) Clone** | Full-featured Twitter replica with real-time interactions | React, Node.js, MongoDB | [Repo](https://github.com/Muzzu8421) |
-| **Spotify Clone** | Music streaming platform with advanced player features | Next.js, Express, MongoDB | [Repo](https://github.com/Muzzu8421) |
-| **Lockify** | Secure password manager with encryption | React, Express, MongoDB | [Repo](https://github.com/Muzzu8421) |
-| **buy-me-a-chai** | Creator crowdfunding platform with payment integration | Next.js, MongoDB, Razorpay | [Repo](https://github.com/Muzzu8421/buy-me-a-chai) |
-| **onelink** | Link-in-bio application with custom profiles | Next.js, MongoDB, TailwindCSS | [Repo](https://github.com/Muzzu8421/onelink) |
-| **url_shortener** | Custom URL shortener with analytics | Express, MongoDB, React | [Repo](https://github.com/Muzzu8421/url_shortener) |
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **folioo** | Full-stack portfolio generator SaaS — upload your resume and get a live portfolio site instantly. Supports Google & GitHub OAuth, resume parsing, and unique slug-based routing per user. | Next.js, MongoDB, NextAuth, Tailwind CSS | 🚧 [Repo](https://github.com/Muzzu8421/folioo) |
+| **Buy Me A Chai** | Production-ready crowdfunding platform for creators. Razorpay payments, real-time earnings dashboard, GitHub OAuth, and dynamic creator profile pages with username-based routing. | Next.js, MongoDB, Razorpay, NextAuth | 🔗 [Live](https://github.com/Muzzu8421/buy-me-a-chai) · [Repo](https://github.com/Muzzu8421/buy-me-a-chai) |
+| **OneLink** | Link-in-bio platform with a 4-step onboarding wizard, real-time handle validation, dark mode, and Rive-powered animations. Each user gets a unique public profile page. | Next.js, MongoDB, Tailwind CSS, Rive | 🔗 [Live](https://github.com/Muzzu8421/onelink) · [Repo](https://github.com/Muzzu8421/onelink) |
 
 ---
 
@@ -56,17 +51,11 @@ I've built everything from scratch—here are some highlights:
 
 ## 📊 GitHub Stats
 
-![Muzakkir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzzu8421&show_icons=true&theme=dark&count_private=true&hide=prs)
+![Muzakkir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzzu8421&show_icons=true&theme=dracula&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzu8421&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muzzu8421&theme=dracula&hide_border=false)
 
----
-
-## 🎖️ Achievements
-
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-gray?style=flat)
-![YOLO](https://img.shields.io/badge/YOLO-gray?style=flat)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-gray?style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzu8421&layout=compact&theme=dracula&hide_border=false)
 
 ---
 
@@ -82,10 +71,8 @@ I've built everything from scratch—here are some highlights:
 
 ## ✨ Fun Fact
 
-I love solving complex problems with clean, efficient code. Building things from scratch is my favorite part of development—from the database schema to the final UI polish. Every project teaches me something new! 🚀
+I love solving complex problems with clean, efficient code. Building things from scratch is my favorite part of development — from the database schema to the final UI polish. Every project teaches me something new! 🚀
 
 ---
 
 *⭐ Found something useful? Consider starring my repos! Your support means a lot and helps me keep building cool stuff.*
-
-<!-- Last Updated: 2026-05-03 -->
