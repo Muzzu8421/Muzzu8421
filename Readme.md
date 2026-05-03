@@ -1,19 +1,19 @@
-### Hi 👋, I'm Muzakkir
+## Hi 👋, I'm Muzakkir
 
 I'm a **Full Stack Developer** passionate about building modern, scalable web applications from the ground up. I craft responsive frontends with React & Next.js, design robust backends with Express, and manage data with MongoDB. I love turning complex ideas into real, working products.
 
 ---
 
-## 💼 What I'm Doing
+### 💼 What I'm Doing
 
-- Building full-stack applications with modern JavaScript
-- Crafting responsive UIs and powerful APIs
-- Constantly learning new technologies and best practices
-- Open to **full-time roles** and **freelance projects**
+- 🔨 Building full-stack applications with modern JavaScript
+- 🎨 Crafting responsive UIs and powerful APIs
+- 📚 Constantly learning new technologies and best practices
+- 💡 Open to **full-time roles** and **freelance projects**
 
 ---
 
-## 🏆 Featured Projects
+### 🏆 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
@@ -23,9 +23,9 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![]( https://github-readme-stats.shion.dev/api?username=Muzzu8421&show_icons=true&theme=dracula&hide_border=false&count_private=true)
 
@@ -59,7 +59,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 📧 **Email:** [skmuzakkir750@gmail.com](mailto:skmuzakkir750@gmail.com)  
 🔗 **LinkedIn:** [shaikh-muzakkir-b7a3a5294](https://linkedin.com/in/shaikh-muzakkir-b7a3a5294)  
@@ -69,7 +69,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 
 ---
 
-## ✨ Fun Fact
+### ✨ Fun Fact
 
 I love solving complex problems with clean, efficient code. Building things from scratch is my favorite part of development — from the database schema to the final UI polish. Every project teaches me something new! 🚀
 
