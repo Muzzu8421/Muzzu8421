@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 ## 🌐 Connect With Me
 
 📧 **Email:** [skmuzakkir750@gmail.com](mailto:skmuzakkir750@gmail.com)  
-🔗 **LinkedIn:** [shaikh-muzakkir-b7a3a5294](https://linkedin.com/in/shaikh-muzakkir-b7a3a5294)  
+🔗 **LinkedIn:** [shaikh-muzakkir-b7a3a5294](https://linkedin.com/in/shaikh-muzakkir)  
 📱 **Instagram:** [@sk_adil___07](https://instagram.com/sk_adil___07)
 
 **Available for:** Full-time roles • Freelance projects • Collaborations
